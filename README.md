@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRASHANT VATS</h1>
-<h3 align="center">MAI CHUTIYA HUN, MERE JAISA CHUTIYA AAPNE KABHI KAHI NAHI DEKHA HOGA AUR MERI KISMAT JETHALAL JAISI HAI, EK MUSIBAT JAATI NAHI KI DUSRI DARWAJA KHOL KE KHADI REHTI HAI</h3>
+<h3 align="center">I am passionate developer from India</h3>
 
-<img width="400px" align="center" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coder">
+<img width="400" align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar406&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar406" /> </p>
